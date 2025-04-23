@@ -1,4 +1,4 @@
-##SCRUM-2 : 
+###SCRUM-2 : 
 En tant que visiteur, je veux créer un compte en fournissant mes infos personnelles
 
 ### Tâches associées :
